@@ -1,11 +1,11 @@
 .container{
  
-    background: black;
+    background: midnightblue;
     width: 600px;
    }
    
    .nav{
-       background-color: #788090;
+       background-color: #5980ce;
        padding: 1rem;
    }
    
@@ -32,4 +32,7 @@
    h3{
        text-align: center;
        color: crimson
+   }
+   h2{
+       text-align: center
    }
